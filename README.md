@@ -1,0 +1,2 @@
+# first-exercise
+asy local
